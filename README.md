@@ -3,6 +3,8 @@ delphi-libraries-list
 
 List of Delphi Libraries and Frameworks
 
+### Blogs and Sites 
+  - BeginEnd, this site organize all the most Delphi's important sites and blogs:  https://www.beginend.net/
 
 ### Inversion of Control - Dependency injection
 
